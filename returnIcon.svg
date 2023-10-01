@@ -1,0 +1,16 @@
+<svg width="22" height="23" viewBox="0 0 22 23" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="price shipping">
+<path id="icon" fill-rule="evenodd" clip-rule="evenodd" d="M1 11.333C1 16.8559 5.47715 21.333 11 21.333C16.5228 21.333 21 16.8559 21 11.333C21 5.81016 16.5228 1.33301 11 1.33301C5.47715 1.33301 1 5.81016 1 11.333ZM19.1818 11.333C19.1818 15.8517 15.5187 19.5148 11 19.5148C6.48128 19.5148 2.81815 15.8517 2.81815 11.333C2.81815 6.81429 6.48128 3.15116 11 3.15116C15.5187 3.15116 19.1818 6.81429 19.1818 11.333Z" fill="url(#paint0_linear_10_287)"/>
+<path id="Rectangle 2703 (Stroke)" fill-rule="evenodd" clip-rule="evenodd" d="M6.98273 9.98805C7.40206 9.62863 8.03336 9.67719 8.39278 10.0965L10.6286 12.705L14.6826 7.91387C15.0394 7.49226 15.6704 7.43968 16.092 7.79642C16.5136 8.15317 16.5662 8.78414 16.2094 9.20575L11.7761 14.4451C11.1795 15.1502 10.0933 15.1537 9.49219 14.4523L6.87427 11.3981C6.51485 10.9788 6.56341 10.3475 6.98273 9.98805Z" fill="url(#paint1_linear_10_287)"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_10_287" x1="4" y1="2.33319" x2="11" y2="21.333" gradientUnits="userSpaceOnUse">
+<stop stop-color="#0CD38B"/>
+<stop offset="1" stop-color="#0CB477"/>
+</linearGradient>
+<linearGradient id="paint1_linear_10_287" x1="9" y1="7.83325" x2="10.5089" y2="16.1927" gradientUnits="userSpaceOnUse">
+<stop stop-color="#0CD38B"/>
+<stop offset="1" stop-color="#0CB477"/>
+</linearGradient>
+</defs>
+</svg>
